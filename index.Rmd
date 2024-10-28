@@ -9,7 +9,8 @@ output:
 
 ### Welcome. Nice to meet you!
 
-![](https://github.com/qianxuan_huang.github.io)
+![](https://Qianxuan-Huang.github.io/qianxuan_huang.github.io/)
+
 
 
 ### Link to Resume page
