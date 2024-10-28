@@ -10,3 +10,7 @@ output:
 ### Welcome. Nice to meet you!
 
 ![](https://qianxuan_huang.github.io)
+
+
+### Link to Resume page
+[Resume](Resume.html)

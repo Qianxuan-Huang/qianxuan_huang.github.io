@@ -1,0 +1,12 @@
+---
+title: "Resume of Qianxuan Huang"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Personal information
+Name: Qianxuan Huang
+Email: qh2285@cumc.columbia.edu
