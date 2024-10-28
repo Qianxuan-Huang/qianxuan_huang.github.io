@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Website of Qianxuan Huang"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,6 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+### Welcome. Nice to meet you!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://qianxuan_huang.github.io)
